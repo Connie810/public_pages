@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>快乐小狗 - 用户协议</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 20px;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 5px;
+        }
+        .intro {
+            background-color: #fef5e7;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            font-size: 16px;
+            border-left: 4px solid #f39c12;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact-info {
+            background-color: #e8f5e8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .email {
+            font-weight: bold;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #ffc107;
+            margin: 15px 0;
+        }
+        .important {
+            font-weight: bold;
+        }
+        .section-content {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>快乐小狗用户协议</h1>
+        
+        <div class="intro">
+            欢迎您使用「快乐小狗」（以下简称"本应用"）。<br><br>
+            在使用本应用服务前，请您务必仔细阅读并充分理解本《用户协议》（以下简称"本协议"），<span class="important">特别是免除或限制责任的条款</span>。若您不同意本协议的任意内容，请停止使用本应用服务。<br><br>
+            一旦您点击"同意"按钮或开始使用本应用，即视为您已阅读并同意受本协议全部条款的约束。
+        </div>
+
+        <h2>一、服务内容</h2>
+        <div class="section-content">
+            <ul>
+                <li>本应用是一款通过 AI 技术与用户进行对话、提供陪伴感受的虚拟宠物养成和小狗拟人化聊天工具。</li>
+                <li>本应用所有功能仅供非医疗、非咨询、非决策用途，仅用于情感交流与娱乐互动。</li>
+                <li>我们有权根据实际情况随时对服务内容进行变更、暂停或终止，恕不另行通知。</li>
+            </ul>
+        </div>
+
+        <h2>二、用户行为规范</h2>
+        <div class="section-content">
+            <p>您在使用本应用服务过程中承诺遵守以下规定：</p>
+            <ul>
+                <li><strong>合法使用：</strong>承诺在使用本 App 过程中，遵守中华人民共和国的法律法规以及社会公共秩序和善良风俗，不得利用本 App 从事任何违法违规活动，包括但不限于：
+                    <ul>
+                        <li>发布、传播含有违法、淫秽、暴力、恐怖、歧视、虚假等不良信息的内容；</li>
+                        <li>利用本 App 进行诈骗、传销、赌博等违法犯罪活动；</li>
+                        <li>侵犯他人知识产权、人身权、财产权等合法权益的行为；</li>
+                    </ul>
+                </li>
+                <li><strong>禁止恶意行为：</strong>不得通过任何自动化手段（如机器人程序、爬虫程序等）或其他不正当方式使用本 App，干扰本 App 的正常运行，包括但不限于：
+                    <ul>
+                        <li>恶意刷量、恶意攻击服务器、恶意篡改数据等行为；</li>
+                        <li>不得对本应用进行反向工程、反编译或试图获取源代码；</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <h2>三、账户与数据</h2>
+        <div class="section-content">
+            <ul>
+                <li>您使用 Apple 登录创建的账户，将用于记录您的使用记录、宠物设定与聊天数据；</li>
+                <li>您有权随时注销账户，我们将在接到请求后 15 个工作日内完成数据清除；</li>
+                <li>除非经您授权，我们不会将您的账户信息用于除提供服务之外的用途。</li>
+            </ul>
+        </div>
+
+        <h2>四、隐私保护</h2>
+        <div class="section-content">
+            <p>我们非常重视用户隐私的保护。关于您的信息收集、使用、存储与共享等内容，请参考我们的《隐私政策》。</p>
+        </div>
+
+        <h2>五、知识产权</h2>
+        <div class="section-content">
+            <ul>
+                <li>本 App 及相关服务中包含内容（包括但不限于 UI 界面、系统提示语、AI 生成语料、代码等内容）的知识产权均归我们或相关权利人所有。未经我们或相关权利人的书面许可，您不得对上述内容进行复制、修改、改编、传播、销售、出租、许可他人使用等任何侵犯知识产权的行为。</li>
+                <li>您在使用本 App 过程中可能会获得一些由我们提供的虚拟物品，这些虚拟物品的所有权归我们所有，您仅享有根据本协议及本 App 规则在有限范围内的使用权。您不得将虚拟物品进行交易、售卖或通过其他方式谋取不正当利益，否则我们有权采取相应措施，包括但不限于限制账号使用、收回虚拟物品等。</li>
+            </ul>
+        </div>
+
+        <h2>六、责任限制与免责声明</h2>
+        <div class="section-content">
+            <div class="highlight">
+                <strong>责任限制：</strong><br>
+                在法律法规允许的最大范围内，对于因使用本 App 或无法使用本 App 而导致的任何直接、间接、附带、特殊、衍生性或惩罚性的损害，包括但不限于因数据丢失、业务中断、利润损失、人身伤害等造成的损失，我们不承担任何责任，除非该损害是由我们故意或重大过失造成的。
+            </div>
+            <p><strong>免责声明：</strong></p>
+            <ul>
+                <li>本应用基于 AI 生成对话，所有内容均为自动生成，不代表我们的立场与建议；</li>
+                <li>本应用提供的任何信息不构成医学、法律、心理等专业意见，用户需自行判断与决策；</li>
+                <li>我们不保证服务持续性或功能完整性，您理解服务可能因系统维护、网络等因素中断或变化。</li>
+            </ul>
+        </div>
+
+        <h2>七、未成年人保护</h2>
+        <div class="section-content">
+            <p>若您为未成年人，请在监护人同意和指导下使用本服务。</p>
+        </div>
+
+        <h2>八、协议更新与通知</h2>
+        <div class="section-content">
+            <ul>
+                <li>我们有权不时更新本协议内容，并在更新后通过应用内弹窗或公告通知用户。</li>
+                <li>若您在协议更新后继续使用本应用，视为您已同意更新内容。</li>
+            </ul>
+        </div>
+
+        <h2>九、协议终止</h2>
+        <div class="section-content">
+            <p><strong>终止情形：</strong></p>
+            <ul>
+                <li>您可以随时停止使用本 App，从而终止本协议。您可以通过卸载本 App 等方式停止使用。</li>
+                <li>若您违反本协议的任何条款，我们有权不经通知立即终止本协议，并停止向您提供本 App 的服务。同时，我们有权采取相应措施，如限制账号使用、删除账号及相关数据等。</li>
+                <li>在法律允许的范围内，我们有权根据业务调整、经营策略变化等原因，决定停止本 App 的运营。在此情况下，我们将提前通知您，并按照法律法规的要求处理相关事宜。</li>
+            </ul>
+            
+            <p><strong>终止后的处理：</strong></p>
+            <ul>
+                <li>本协议终止后，您应立即停止使用本 App。</li>
+                <li>我们有权删除与您账号相关的所有数据，但法律法规另有规定或我们与您另有约定的除外。</li>
+                <li>同时，双方在本协议终止前产生的权利和义务不受影响，仍然有效。</li>
+            </ul>
+        </div>
+
+        <h2>十、联系方式</h2>
+        <div class="contact-info">
+            <p>如您对本协议有任何疑问、建议或投诉，可通过以下方式联系我们：</p>
+            <p><strong>联系邮箱：</strong><span class="email">happy_puppy_admin@163.com</span></p>
+        </div>
+
+        <h2>十一、法律适用与争议解决</h2>
+        <div class="section-content">
+            <ul>
+                <li>本协议的签订、履行、解释及争议解决均适用中华人民共和国法律。</li>
+                <li>若您与我们之间因本协议或使用本 App 产生任何争议，双方应首先友好协商解决；协商不成的，任何一方均有权向有管辖权的人民法院提起诉讼。</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html> 
